@@ -1,0 +1,10 @@
+<proxy>
+<id>optional</id>
+<active>true</active>
+<protocol>http</protocol>
+<username>proxyuser</username>
+<password>proxypass</password>
+<host>proxy.cognizant.com</host>
+<port>6050</port>
+<nonProxyHosts>local.net</nonProxyHosts>
+</proxy>
